@@ -1,3 +1,0 @@
-Download the ZIP file and then extract its contents. 
-
-Open up the "Virtual_Museum - Dele Team 4" folder, then run the "Virtual_Museum" application

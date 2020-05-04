@@ -1,0 +1,5 @@
+https://drive.google.com/open?id=10zFJtWCcZdxVfHHbk6Si47Lac1Ra-wWi
+
+Download the ZIP file above and then extract its contents. 
+
+Open up the "Virtual_Museum - Dele Team 4" folder, then run the "Virtual_Museum" application
